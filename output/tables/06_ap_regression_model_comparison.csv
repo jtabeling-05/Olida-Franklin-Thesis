@@ -1,0 +1,4 @@
+model,AIC,convergence,positive_definite_hessian,delta_AIC_vs_binomial
+Binomial,236.9372495332873,0,TRUE,0
+Beta-binomial,238.93724691867828,0,TRUE,1.9999973853909978
+

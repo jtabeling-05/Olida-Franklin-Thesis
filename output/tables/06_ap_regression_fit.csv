@@ -1,0 +1,2 @@
+observed_deviance,residual_df,pearson_statistic,pearson_ratio,pearson_asymptotic_p,asymptotic_p,bootstrap_p,simulated_q025,simulated_q975,simulations,seed
+141.08175609152556,110,104.39845192780015,0.9490768357072741,0.632734544098088,0.024452836197360748,0.6888,120.2395118231974,177.81813910309035,4999,20260913

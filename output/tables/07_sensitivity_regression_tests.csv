@@ -1,0 +1,6 @@
+endpoint,sample,n_combinations,LR_chisq,df,p
+Genoox,Exactly two alleles,117,11.396086805265156,2,0.003352518573491029
+Genoox,Recurrent-allele-free,106,4.428745891355504,2,0.10922198089527209
+Aggregated Prediction,Exactly two alleles,95,8.554662666510183,2,0.013879652874540325
+Aggregated Prediction,Recurrent-allele-free,89,4.727860013455398,2,0.0940498792875983
+Genoox,AP-complete sample,113,12.700790437394062,2,0.0017460569255349594

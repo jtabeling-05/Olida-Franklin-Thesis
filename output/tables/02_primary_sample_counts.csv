@@ -1,0 +1,8 @@
+endpoint,Oligogenic_Effect,n_combinations,n_alleles,positive,negative
+Genoox P/LP,True Digenic,67,141,58,83
+Genoox P/LP,Monogenic+Modifier,64,148,83,65
+Genoox P/LP,Dual Molecular Diagnosis,16,39,16,23
+Aggregated Prediction: Deleterious,True Digenic,50,104,43,61
+Aggregated Prediction: Deleterious,Monogenic+Modifier,52,116,70,46
+Aggregated Prediction: Deleterious,Dual Molecular Diagnosis,11,27,9,18
+

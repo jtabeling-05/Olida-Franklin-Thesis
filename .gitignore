@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+*.Rproj.user
+~$*
+.DS_Store
+Thumbs.db
